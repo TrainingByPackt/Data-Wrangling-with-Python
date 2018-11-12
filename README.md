@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/Data-Wrangling-with-Python.svg)](https://github.com/TrainingByPackt/Data-Wrangling-with-Python/issues)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Wrangling-with-Python.svg)](https://github.com/TrainingByPackt/Data-Wrangling-with-Python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Wrangling-with-Python.svg)](https://github.com/TrainingByPackt/Data-Wrangling-with-Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Wrangling-with-Python.svg)](https://github.com/TrainingByPacktData-Wrangling-with-Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Wrangling-with-Python/pulls)
