@@ -31,7 +31,7 @@ version of OS X
 * **Processor**: Intel Core i5 or equivalent
 * **Memory**: 4GB RAM (8 GB RAM Preferred)
 * **Hard disk**: 40GB or more
-* An Internet connection
+* A strong and stable Internet connection
 
 
 
