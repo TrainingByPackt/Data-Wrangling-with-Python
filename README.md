@@ -36,19 +36,19 @@ version of OS X
 
 
 ### Software requirements
-You’ll also need the following software installed in advance:
+You'll also need the following software installed in advance:
 * Browser: Google Chrome/Mozilla Firefox Latest Version
-* Python 3.4+ (preferably Python 3.6) installed (from https://python.org)
+* [Python 3.4+](https://python.org) (preferably Python 3.6) installed
 * Python libraries as needed (Jupyter, Numpy, Pandas, Matplotlib, BeautifulSoup4, and so)
 * Notepad++/Sublime Text (latest version), Atom IDE (latest version) or other similar text editor applications.
 
-* The following python libraries installed:
-  * NumPy
-  * Pandas
-  * SciPy
-  * scikit-learn
-  * Matplotlib
-  * BeautifulSoup4
+**The following python libraries installed**:
+* NumPy
+* Pandas
+* SciPy
+* scikit-learn
+* Matplotlib
+* BeautifulSoup4
 
 
 
