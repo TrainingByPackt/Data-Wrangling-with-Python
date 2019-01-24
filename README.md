@@ -27,11 +27,11 @@ XML
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
 * **OS**: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest
-version of OS X
+version of macOS
 * **Processor**: Intel Core i5 or equivalent
-* **Memory**: 4GB RAM (8 GB RAM Preferred)
+* **Memory**: 8GB RAM or more
 * **Hard disk**: 40GB or more
-* A strong and stable Internet connection
+* Stable Internet connection
 
 
 
@@ -42,7 +42,7 @@ You'll also need the following software installed in advance:
 * Python libraries as needed (Jupyter, Numpy, Pandas, Matplotlib, BeautifulSoup4, and so)
 * Notepad++/Sublime Text (latest version), Atom IDE (latest version) or other similar text editor applications.
 
-**The following python libraries installed**:
+**The following Python libraries are needed**:
 * NumPy
 * Pandas
 * SciPy
