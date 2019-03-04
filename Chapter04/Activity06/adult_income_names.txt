@@ -14,8 +14,6 @@ occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, P
 
 relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
 
-race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
-
 sex: Female, Male.
 
 capital-gain: continuous.
