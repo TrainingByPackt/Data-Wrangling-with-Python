@@ -20,7 +20,7 @@ XML
 * Perform advanced string search and manipulation using Python and RegEX
 * Handle outliers, apply advanced programming tricks, and perform data imputation using Pandas
 * Basic descriptive statistics and plotting techniques in Python for quick examination of data
-* Practice data wrangling and modeling using the random data generation techniques - Bonus Topic
+* Practice data wrangling and modelling using the random data generation techniques - Bonus Topic
 
 
 
